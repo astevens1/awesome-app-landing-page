@@ -77,8 +77,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Square Word Scramble# Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Square Word Scramble # Optional - Enter your site title
+description: Word puzzle game # Optional - Enter your site description
 
 #
 # Google Analytics
