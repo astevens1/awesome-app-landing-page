@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: Square Word Scramble # REQUIRED - Enter your app name
+  ios_id: 1203883645 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: org.chaotic.squarewordscramble # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,9 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Addictive Word Puzzle # Optional
+marketing_desc: Unscramble letters in a grid so that you spell words both down and across. Sounds easy? This may be one of the harder word puzzle games you will play. You can use hints if you get stuck. Unlock levels! Earn achievements! There are over 50000 puzzles, so you will always be challenged with something new.
+
 
 #
 # Social Links
@@ -76,7 +77,7 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
+title: Square Word Scramble# Optional - Enter your site title
 description: # Optional - Enter your site description
 
 #
